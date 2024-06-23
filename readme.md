@@ -4,11 +4,11 @@ Archetyp was born on 17 May 2020 as a drugs only darknet marketplace. Built from
 ## Archetyp Market Link:
 
 ```sh
-http://arche3eo4zn7ikqpx4asft6r6yfasw3pzoccs2j2he6cmebftbdafmqd.onion
+http://arche2fsgvhrum7a6wb2s5e7cojphnyzoql7qrpjzoxpnhdnxioh2dyd.onion
 ```
-[<img src="/assets/visit-market.webp" width="200">](http://arche3eo4zn7ikqpx4asft6r6yfasw3pzoccs2j2he6cmebftbdafmqd.onion)
+[<img src="/assets/visit-market.webp" width="200">](http://arche2fsgvhrum7a6wb2s5e7cojphnyzoql7qrpjzoxpnhdnxioh2dyd.onion)
 
-<a href="http://arche3eo4zn7ikqpx4asft6r6yfasw3pzoccs2j2he6cmebftbdafmqd.onion"><img src="/assets/archetyp-preview.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://arche2fsgvhrum7a6wb2s5e7cojphnyzoql7qrpjzoxpnhdnxioh2dyd.onion"><img src="/assets/archetyp-preview.webp" alt="image" style="max-width: 100%;"><a>
 
 This is a strictly scientific and educational repository, the purpose of which is to give an idea of the world of the darkweb. We do not collect any commissions/kickbacks from market affiliate links. We are not affiliated with any legal entity and do not support illegal activities.
 
@@ -22,4 +22,4 @@ Employee: Click the "I'm an employee" below the username, this will take you to 
 Vendors are required to also to have setup a PGP Key. This can be done by going to the settings page.
 Note: Buyer should also setup their PGP key, so that you can receive encrypted message from the vendor for such things as tracking.
 
-<a href="http://arche3eo4zn7ikqpx4asft6r6yfasw3pzoccs2j2he6cmebftbdafmqd.onion"><img src="/assets/archetyp-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://arche3eo4zn7ikqpx4asft6r6yfasw3pzoccs2j2he6cmebftbdafmqd.onion"><img src="/assets/archetyp-register.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://arche2fsgvhrum7a6wb2s5e7cojphnyzoql7qrpjzoxpnhdnxioh2dyd.onion"><img src="/assets/archetyp-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://arche2fsgvhrum7a6wb2s5e7cojphnyzoql7qrpjzoxpnhdnxioh2dyd.onion"><img src="/assets/archetyp-register.webp" alt="image" style="max-width: 100%;"><a>
