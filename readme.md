@@ -4,11 +4,11 @@ Archetyp was born on 17 May 2020 as a drugs only darknet marketplace. Built from
 ## Archetyp Market Link:
 
 ```sh
-http://arche3kgjvklzc7zjkvwvg67qhew2jwbf2m5mhfc7swnwhyus2zlfxyd.onion
+http://arche3kkrofdaelnx3pbk7ulrsaete5tdgaxinl265nakge33mlktzid.onion
 ```
-[<img src="/assets/visit-market.webp" width="200">](http://arche3kgjvklzc7zjkvwvg67qhew2jwbf2m5mhfc7swnwhyus2zlfxyd.onion)
+[<img src="/assets/visit-market.webp" width="200">](http://arche3kkrofdaelnx3pbk7ulrsaete5tdgaxinl265nakge33mlktzid.onion)
 
-<a href="http://arche3kgjvklzc7zjkvwvg67qhew2jwbf2m5mhfc7swnwhyus2zlfxyd.onion"><img src="/assets/archetyp-preview.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://arche3kkrofdaelnx3pbk7ulrsaete5tdgaxinl265nakge33mlktzid.onion"><img src="/assets/archetyp-preview.webp" alt="image" style="max-width: 100%;"><a>
 
 This is a strictly scientific and educational repository, the purpose of which is to give an idea of the world of the darkweb. We do not collect any commissions/kickbacks from market affiliate links. We are not affiliated with any legal entity and do not support illegal activities.
 
@@ -22,4 +22,4 @@ Employee: Click the "I'm an employee" below the username, this will take you to 
 Vendors are required to also to have setup a PGP Key. This can be done by going to the settings page.
 Note: Buyer should also setup their PGP key, so that you can receive encrypted message from the vendor for such things as tracking.
 
-<a href="http://arche3kgjvklzc7zjkvwvg67qhew2jwbf2m5mhfc7swnwhyus2zlfxyd.onion"><img src="/assets/archetyp-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://arche3kgjvklzc7zjkvwvg67qhew2jwbf2m5mhfc7swnwhyus2zlfxyd.onion"><img src="/assets/archetyp-register.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://arche3kkrofdaelnx3pbk7ulrsaete5tdgaxinl265nakge33mlktzid.onion"><img src="/assets/archetyp-login.webp" alt="image" style="max-width: 100%;"><a>  <a href="http://arche3kkrofdaelnx3pbk7ulrsaete5tdgaxinl265nakge33mlktzid.onion"><img src="/assets/archetyp-register.webp" alt="image" style="max-width: 100%;"><a>
